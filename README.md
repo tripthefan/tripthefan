@@ -1,3 +1,3 @@
-# tripthefan
+# Trip the Fan
 
-We are an artist management group working to create, and promote open source technology to change how we work in the music industry.
+We are a music management and services firm.
